@@ -1,8 +1,9 @@
 http://docplayer.es/3590259-Universidad-tecnologica-de-queretaro.html
 
-Documentacion de un proyecto web 
+Documentacion de un proyecto web  // Proyecto del cual se tomaron pautas
 
 
 http://docplayer.es/docs-images/24/3590259/images/37-0.png
 
-Entidades del sistema
+Entidades del sistema // Proyecto del cual se tomo de ejemplo para las entidades 
+
