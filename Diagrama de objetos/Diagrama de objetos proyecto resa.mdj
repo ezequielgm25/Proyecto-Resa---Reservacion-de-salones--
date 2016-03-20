@@ -2962,6 +2962,204 @@
 							"headMultiplicityLabel": {
 								"$ref": "AAAAAAFTXhGiFaVf4qY="
 							}
+						},
+						{
+							"_type": "UMLObjectView",
+							"_id": "AAAAAAFTjBXRRw2498w=",
+							"_parent": {
+								"$ref": "AAAAAAFTW62vlx+XaOE="
+							},
+							"model": {
+								"$ref": "AAAAAAFTjBXRRA22jRI="
+							},
+							"subViews": [
+								{
+									"_type": "UMLNameCompartmentView",
+									"_id": "AAAAAAFTjBXRSA25pJU=",
+									"_parent": {
+										"$ref": "AAAAAAFTjBXRRw2498w="
+									},
+									"model": {
+										"$ref": "AAAAAAFTjBXRRA22jRI="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAFTjBXRSQ269Iw=",
+											"_parent": {
+												"$ref": "AAAAAAFTjBXRSA25pJU="
+											},
+											"visible": false,
+											"enabled": true,
+											"lineColor": "#000000",
+											"fillColor": "#ffffff",
+											"fontColor": "#000000",
+											"font": "Arial;13;0",
+											"showShadow": true,
+											"containerChangeable": false,
+											"containerExtending": false,
+											"left": 0,
+											"top": 0,
+											"width": 0,
+											"height": 13,
+											"autoResize": false,
+											"underline": false,
+											"horizontalAlignment": 2,
+											"verticalAlignment": 5
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAFTjBXRSg27qu8=",
+											"_parent": {
+												"$ref": "AAAAAAFTjBXRSA25pJU="
+											},
+											"visible": true,
+											"enabled": true,
+											"lineColor": "#000000",
+											"fillColor": "#ffffff",
+											"fontColor": "#000000",
+											"font": "Arial;13;1",
+											"showShadow": true,
+											"containerChangeable": false,
+											"containerExtending": false,
+											"left": 381,
+											"top": 455,
+											"width": 47.68359375,
+											"height": 13,
+											"autoResize": false,
+											"underline": true,
+											"text": "Object1",
+											"horizontalAlignment": 2,
+											"verticalAlignment": 5
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAFTjBXRSg28Ub4=",
+											"_parent": {
+												"$ref": "AAAAAAFTjBXRSA25pJU="
+											},
+											"visible": false,
+											"enabled": true,
+											"lineColor": "#000000",
+											"fillColor": "#ffffff",
+											"fontColor": "#000000",
+											"font": "Arial;13;0",
+											"showShadow": true,
+											"containerChangeable": false,
+											"containerExtending": false,
+											"left": 0,
+											"top": 0,
+											"width": 207.35888671875,
+											"height": 13,
+											"autoResize": false,
+											"underline": false,
+											"text": "(from Modelo Diagrama de Objetos)",
+											"horizontalAlignment": 2,
+											"verticalAlignment": 5
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAFTjBXRSg292qc=",
+											"_parent": {
+												"$ref": "AAAAAAFTjBXRSA25pJU="
+											},
+											"visible": false,
+											"enabled": true,
+											"lineColor": "#000000",
+											"fillColor": "#ffffff",
+											"fontColor": "#000000",
+											"font": "Arial;13;0",
+											"showShadow": true,
+											"containerChangeable": false,
+											"containerExtending": false,
+											"left": 0,
+											"top": 0,
+											"width": 0,
+											"height": 13,
+											"autoResize": false,
+											"underline": false,
+											"horizontalAlignment": 1,
+											"verticalAlignment": 5
+										}
+									],
+									"visible": true,
+									"enabled": true,
+									"lineColor": "#000000",
+									"fillColor": "#ffffff",
+									"fontColor": "#000000",
+									"font": "Arial;13;0",
+									"showShadow": true,
+									"containerChangeable": false,
+									"containerExtending": false,
+									"left": 376,
+									"top": 448,
+									"width": 57.68359375,
+									"height": 25,
+									"autoResize": false,
+									"stereotypeLabel": {
+										"$ref": "AAAAAAFTjBXRSQ269Iw="
+									},
+									"nameLabel": {
+										"$ref": "AAAAAAFTjBXRSg27qu8="
+									},
+									"namespaceLabel": {
+										"$ref": "AAAAAAFTjBXRSg28Ub4="
+									},
+									"propertyLabel": {
+										"$ref": "AAAAAAFTjBXRSg292qc="
+									}
+								},
+								{
+									"_type": "UMLSlotCompartmentView",
+									"_id": "AAAAAAFTjBXRSw2+QRE=",
+									"_parent": {
+										"$ref": "AAAAAAFTjBXRRw2498w="
+									},
+									"model": {
+										"$ref": "AAAAAAFTjBXRRA22jRI="
+									},
+									"visible": false,
+									"enabled": true,
+									"lineColor": "#000000",
+									"fillColor": "#ffffff",
+									"fontColor": "#000000",
+									"font": "Arial;13;0",
+									"showShadow": true,
+									"containerChangeable": false,
+									"containerExtending": false,
+									"left": 0,
+									"top": 0,
+									"width": 10,
+									"height": 10,
+									"autoResize": false
+								}
+							],
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": true,
+							"containerExtending": false,
+							"left": 376,
+							"top": 448,
+							"width": 57.68359375,
+							"height": 25,
+							"autoResize": false,
+							"stereotypeDisplay": "label",
+							"showVisibility": true,
+							"showNamespace": false,
+							"showProperty": true,
+							"showType": true,
+							"nameCompartment": {
+								"$ref": "AAAAAAFTjBXRSA25pJU="
+							},
+							"wordWrap": false,
+							"slotCompartment": {
+								"$ref": "AAAAAAFTjBXRSw2+QRE="
+							}
 						}
 					]
 				},
@@ -3618,6 +3816,15 @@
 							"value": "03MA16H230pm"
 						}
 					]
+				},
+				{
+					"_type": "UMLObject",
+					"_id": "AAAAAAFTjBXRRA22jRI=",
+					"_parent": {
+						"$ref": "AAAAAAFTW62MUB+UaRo="
+					},
+					"name": "Object1",
+					"visibility": "public"
 				}
 			],
 			"visibility": "public"
